@@ -1,7 +1,3 @@
-<!-- Custom Premium GitHub Profile README Banner -->
-<p align="center">
-  <img src="banner.png" alt="Hello, World! Custom High-Tech Developer Banner" width="100%">
-</p>
 
 <h1 align="center">Hey there! I'm Biyyani Hari Venkata Gopal 👋</h1>
 <p align="center">
