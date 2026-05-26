@@ -1,11 +1,11 @@
-<!-- Custom Batman-Themed Premium Developer Banner -->
+<!-- Custom Professional Developer Banner -->
 <p align="center">
-  <img src="batman_banner.png" alt="Batman Developer Banner" width="100%">
+  <img src="profile_banner.png" alt="Professional Developer Banner" width="100%">
 </p>
 
-<h1 align="center">🦇 I'm Batman (by night) and a Full-Stack Engineer (by day) ⚡</h1>
+<h1 align="center">🚀 Biyyani Hari Venkata Gopal | Full-Stack & AI Engineer</h1>
 <p align="center">
-  <strong>"I am the night. I am the code. I am... Biyyani Hari Venkata Gopal."</strong>
+  <strong>"Passionate Software Developer & AI Engineer dedicated to building scalable, intelligent, and user-centric web applications."</strong>
 </p>
 
 <p align="center">
@@ -17,18 +17,14 @@
 
 ---
 
-### 🕵️ About Me
+### 👨‍💻 About Me
 
-```text
-  im batman.
-```
+I am an undergraduate Computer Science student at **MLR Institute of Technology** with a strong foundation in software engineering, full-stack development, and artificial intelligence. I design and build highly scalable, performant web applications using **Java, Spring Boot, React, and Python**, while leveraging cutting-edge Generative AI and deep learning models to create intelligent, user-centric solutions.
 
-I am an undergraduate Computer Science student at **MLR Institute of Technology** who designs and develops high-performance full-stack applications. Like the Dark Knight, I operate with precision—architecting scalable systems using **Java, Python, React, and Spring Boot**, while integrating **Generative AI** tools, prompt engineering, and deep machine learning models.
-
-- ⚔️ **My Mission**: Building AI-powered web ecosystems that solve real-world problems.
+- 🚀 **My Mission**: Building high-performance, secure software ecosystems that solve real-world problems.
 - 🎓 **Undergrad**: B.Tech in Computer Science & Engineering at MLRIT (GPA: 7.5 / 10.0)
-- 💼 **Agile Combat**: Completed a Software Engineering Internship at Infosys Springboard
-- 🎯 **Primary Targets**: Deep learning models, full-stack optimizations, and responsive mobile architectures
+- 💼 **Agile Experience**: Completed a Software Engineering Internship at Infosys Springboard
+- 🎯 **Focus Areas**: Deep learning integrations, full-stack microservices, and high-performance system design
 
 ---
 
@@ -83,11 +79,9 @@ I am an undergraduate Computer Science student at **MLR Institute of Technology*
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 AI, Deep Learning & Engines</h4>
+      <h4>🤖 AI & Deep Learning</h4>
       <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Tensorflow">
-      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"><br>
-      <img src="https://img.shields.io/badge/unreal%20engine-%23313131.svg?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine">
-      <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
     </td>
     <td width="50%" valign="top">
       <h4>🛠️ DevOps & Industry Tools</h4>
@@ -99,23 +93,15 @@ I am an undergraduate Computer Science student at **MLR Institute of Technology*
   </tr>
   <tr>
     <td width="100%" colspan="2">
-      <h4>🎨 Design, 3D Drafting & Gaming</h4>
-      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-      <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
-      <img src="https://img.shields.io/badge/Framer-%230055FF.svg?style=for-the-badge&logo=framer&logoColor=white" alt="Framer">
+      <h4>🎨 Design & Creativity</h4>
       <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop">
-      <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator"><br>
-      <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
-      <img src="https://img.shields.io/badge/Krita-%2320A6F4.svg?style=for-the-badge&logo=krita&logoColor=white" alt="Krita">
-      <img src="https://img.shields.io/badge/Clip_Studio_Paint-%2300A1E4.svg?style=for-the-badge&logo=clip-studio-paint&logoColor=white" alt="Clip Studio">
-      <img src="https://img.shields.io/badge/PlayStation_Network-%23003087.svg?style=for-the-badge&logo=playstation&logoColor=white" alt="PSN">
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 Batcave Intel & Analytics
+### 📊 GitHub Activity & Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hari07-git&show_icons=true&title_color=facc15&text_color=e2e8f0&icon_color=facc15&bg_color=0b0f19&hide_border=true&border_radius=10" alt="GitHub Stats" width="48%">
@@ -141,5 +127,5 @@ I am an undergraduate Computer Science student at **MLR Institute of Technology*
 ---
 
 <p align="center">
-  💡 <em>"It's not who I am underneath, but what I code that defines me."</em>
+  💡 <em>"Code is like humor. When you have to explain it, it’s bad."</em>
 </p>
