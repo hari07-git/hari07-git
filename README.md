@@ -1,111 +1,145 @@
-
-<h1 align="center">Hey there! I'm Biyyani Hari Venkata Gopal 👋</h1>
+<!-- Custom Batman-Themed Premium Developer Banner -->
 <p align="center">
-  <strong>Computer Science Student | Full-Stack & Generative AI Developer</strong>
+  <img src="batman_banner.png" alt="Batman Developer Banner" width="100%">
+</p>
+
+<h1 align="center">🦇 I'm Batman (by night) and a Full-Stack Engineer (by day) ⚡</h1>
+<p align="center">
+  <strong>"I am the night. I am the code. I am... Biyyani Hari Venkata Gopal."</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hari-biyyani-308335355/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://pinterest.com"><img src="https://img.shields.io/badge/Pinterest-%23BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"></a>
   <a href="mailto:biyyanihari7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/hari07-git"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 ---
 
-### 💫 About Me
+### 🕵️ About Me
 
-I am an undergraduate Computer Science student at **MLR Institute of Technology** with hands-on experience building AI-powered full-stack applications. I specialize in designing scalable systems using **Java, Python, React, and Spring Boot**, combined with advanced **Generative AI** integrations and prompt engineering workflows.
+```text
+  im batman.
+```
 
-- 🎓 **Education**: Pursuing B.Tech in Computer Science & Engineering at MLR Institute of Technology (2023 - Present)
-- 💼 **Experience**: Completed a Software Engineering Internship at Infosys Springboard
-- 🚀 **Passionate about**: AI-driven products, full-stack architectures, and solving real-world engineering challenges
-- 📫 **How to reach me**: [biyyanihari7@gmail.com](mailto:biyyanihari7@gmail.com)
+I am an undergraduate Computer Science student at **MLR Institute of Technology** who designs and develops high-performance full-stack applications. Like the Dark Knight, I operate with precision—architecting scalable systems using **Java, Python, React, and Spring Boot**, while integrating **Generative AI** tools, prompt engineering, and deep machine learning models.
 
----
-
-### 💼 Work Experience
-
-#### **Infosys Springboard** | *Software Engineering Intern* (Feb 2026 - Apr 2026)
-- Developed and tested RESTful APIs using **Java** and **Spring Boot**, implementing clean coding standards and Git workflows.
-- Built a full-stack **Library Management System** integrating Spring Boot, React.js, MySQL, and JWT role-based authentication.
-- Designed secure backend modules for book issue/return management under agile development timelines.
+- ⚔️ **My Mission**: Building AI-powered web ecosystems that solve real-world problems.
+- 🎓 **Undergrad**: B.Tech in Computer Science & Engineering at MLRIT (GPA: 7.5 / 10.0)
+- 💼 **Agile Combat**: Completed a Software Engineering Internship at Infosys Springboard
+- 🎯 **Primary Targets**: Deep learning models, full-stack optimizations, and responsive mobile architectures
 
 ---
 
-### 🚀 Highlighted Projects
-
-#### **ShareFare – Verified Campus Mobility Platform** | *React, TypeScript, Spring Boot, Leaflet, Tailwind CSS*
-- Built a campus ride-sharing web app featuring live Leaflet map integrations, OSRM routing, and dynamic ETA calculations.
-- Designed secure backend ride booking lifecycles with prompt-engineered AI ride assistance for intelligent travel suggestions.
-- Integrated admin moderation panels and college ID verification for secure student-only transport pools.
-
-#### **Smart Crop Advisory and Disease Detection System (AgroSmart)** | *Flask, CNN/Keras, RandomForest, SQLite*
-- Built and deployed a machine learning web app for crop disease detection and crop classification on real-world agricultural datasets.
-- Developed farmer profile dashboards with SQLite/SQLAlchemy backend, persistent history tracking, and fertilizer recommenders.
-
----
-
-### 🛠️ Tech Stack & Skills
+### 💻 Tech Stack & Arsenal
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>💻 Languages & Core</h4>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"><br>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS">
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"><br>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+      <h4>🗡️ Core Programming Languages</h4>
+      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
+      <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"><br>
+      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+      <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"><br>
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TS">
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"><br>
+      <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"><br>
+      <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+      <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
     </td>
     <td width="50%" valign="top">
-      <h4>🎨 Frontend & Web Frameworks</h4>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"><br>
-      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
+      <h4>🎨 Frontend, Mobile & Styles</h4>
+      <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+      <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"><br>
+      <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"><br>
+      <img src="https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+      <img src="https://img.shields.io/badge/three.js-%23000000.svg?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js"><br>
+      <img src="https://img.shields.io/badge/React_Router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router">
+      <img src="https://img.shields.io/badge/react_redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 AI, ML & Generative AI</h4>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"><br>
-      <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge" alt="HuggingFace">
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Tensorflow">
+      <h4>⚙️ Backend & API Frameworks</h4>
+      <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express"><br>
+      <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+      <img src="https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"><br>
+      <img src="https://img.shields.io/badge/Socket.io-%23010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io">
+      <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
     </td>
     <td width="50%" valign="top">
-      <h4>🔧 Tools & DevOps</h4>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"><br>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ">
+      <h4>🪐 Databases & Cloud Infrastructure</h4>
+      <img src="https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"><br>
+      <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+      <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"><br>
+      <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
+      <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 AI, Deep Learning & Engines</h4>
+      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Tensorflow">
+      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"><br>
+      <img src="https://img.shields.io/badge/unreal%20engine-%23313131.svg?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine">
+      <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛠️ DevOps & Industry Tools</h4>
+      <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"><br>
+      <img src="https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
+      <img src="https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI">
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="2">
+      <h4>🎨 Design, 3D Drafting & Gaming</h4>
+      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+      <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
+      <img src="https://img.shields.io/badge/Framer-%230055FF.svg?style=for-the-badge&logo=framer&logoColor=white" alt="Framer">
+      <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop">
+      <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator"><br>
+      <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
+      <img src="https://img.shields.io/badge/Krita-%2320A6F4.svg?style=for-the-badge&logo=krita&logoColor=white" alt="Krita">
+      <img src="https://img.shields.io/badge/Clip_Studio_Paint-%2300A1E4.svg?style=for-the-badge&logo=clip-studio-paint&logoColor=white" alt="Clip Studio">
+      <img src="https://img.shields.io/badge/PlayStation_Network-%23003087.svg?style=for-the-badge&logo=playstation&logoColor=white" alt="PSN">
     </td>
   </tr>
 </table>
 
 ---
 
-### 🏆 Certifications
-
-- 🎖️ **AI Fundamentals: Foundations for Understanding AI** — *IBM SkillsBuild*
-- 🎖️ **Java Full Stack Developer Certification** — *Infosys Springboard*
-- 🎖️ **Software Engineering Intern Certification** — *Infosys*
-
----
-
-### 📊 GitHub Activity & Analytics
+### 📊 Batcave Intel & Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hari07-git&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Hari's GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari07-git&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=hari07-git&show_icons=true&title_color=facc15&text_color=e2e8f0&icon_color=facc15&bg_color=0b0f19&hide_border=true&border_radius=10" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari07-git&layout=compact&title_color=facc15&text_color=e2e8f0&icon_color=facc15&bg_color=0b0f19&hide_border=true&border_radius=10" alt="Top Languages" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hari07-git&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats" width="97%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hari07-git&currPlay=facc15&ring=facc15&fire=facc15&sideNums=facc15&sideLabels=e2e8f0&dates=e2e8f0&bg=0b0f19&hide_border=true" alt="GitHub Streak" width="97%">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hari07-git&theme=dracula&no-background=true&margin-w=15&no-border=true" alt="Trophies" width="97%">
 </p>
 
 ---
 
+### ✍️ Random Dev Quote
+
 <p align="center">
-  💡 <em>"Code is like humor. When you have to explain it, it’s bad."</em>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Developer Quote">
+</p>
+
+---
+
+<p align="center">
+  💡 <em>"It's not who I am underneath, but what I code that defines me."</em>
 </p>
