@@ -5,7 +5,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/hari07-git"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://pinterest.com"><img src="https://img.shields.io/badge/Pinterest-%23BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"></a>
   <a href="mailto:biyyanihari7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -13,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-I am an undergraduate Computer Science student at **MLR Institute of Technology** with a strong foundation in software engineering and full-stack development. I design and build highly scalable, robust, and performant web applications using **Java, Spring Boot, React, and Python**, focusing on creating high-quality, user-centric software solutions.
+I am an undergraduate Computer Science student at **MLR Institute of Technology** with a strong foundation in software engineering and full-stack development. I design and build highly scalable, robust, and performant web applications using **Java, Spring Boot, and React**, focusing on creating high-quality, user-centric software solutions.
 
 - 🚀 **My Mission**: Building high-performance, secure software ecosystems that solve real-world problems.
 - 🎓 **Undergrad**: B.Tech in Computer Science & Engineering at MLRIT (GPA: 7.5 / 10.0)
@@ -34,9 +33,8 @@ I am an undergraduate Computer Science student at **MLR Institute of Technology*
       <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"><br>
       <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TS">
       <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"><br>
-      <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-      <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"><br>
-      <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+      <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+      <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"><br>
       <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
     </td>
     <td width="50%" valign="top">
@@ -56,10 +54,7 @@ I am an undergraduate Computer Science student at **MLR Institute of Technology*
       <h4>⚙️ Backend & API Frameworks</h4>
       <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
       <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express"><br>
-      <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-      <img src="https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"><br>
       <img src="https://img.shields.io/badge/Socket.io-%23010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io">
-      <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
     </td>
     <td width="50%" valign="top">
       <h4>🪐 Databases & Cloud Infrastructure</h4>
