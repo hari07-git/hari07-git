@@ -1,16 +1,10 @@
-<!-- Custom Professional Developer Banner -->
+<h1 align="center">🚀 Biyyani Hari Venkata Gopal | Full-Stack Software Developer</h1>
 <p align="center">
-  <img src="profile_banner.png" alt="Professional Developer Banner" width="100%">
-</p>
-
-<h1 align="center">🚀 Biyyani Hari Venkata Gopal | Full-Stack & AI Engineer</h1>
-<p align="center">
-  <strong>"Passionate Software Developer & AI Engineer dedicated to building scalable, intelligent, and user-centric web applications."</strong>
+  <strong>"Passionate Full-Stack Software Developer dedicated to building scalable, high-performance, and user-centric web applications."</strong>
 </p>
 
 <p align="center">
-  <a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/hari07-git"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://pinterest.com"><img src="https://img.shields.io/badge/Pinterest-%23BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"></a>
   <a href="mailto:biyyanihari7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -19,12 +13,12 @@
 
 ### 👨‍💻 About Me
 
-I am an undergraduate Computer Science student at **MLR Institute of Technology** with a strong foundation in software engineering, full-stack development, and artificial intelligence. I design and build highly scalable, performant web applications using **Java, Spring Boot, React, and Python**, while leveraging cutting-edge Generative AI and deep learning models to create intelligent, user-centric solutions.
+I am an undergraduate Computer Science student at **MLR Institute of Technology** with a strong foundation in software engineering and full-stack development. I design and build highly scalable, robust, and performant web applications using **Java, Spring Boot, React, and Python**, focusing on creating high-quality, user-centric software solutions.
 
 - 🚀 **My Mission**: Building high-performance, secure software ecosystems that solve real-world problems.
 - 🎓 **Undergrad**: B.Tech in Computer Science & Engineering at MLRIT (GPA: 7.5 / 10.0)
 - 💼 **Agile Experience**: Completed a Software Engineering Internship at Infosys Springboard
-- 🎯 **Focus Areas**: Deep learning integrations, full-stack microservices, and high-performance system design
+- 🎯 **Focus Areas**: Full-stack web development, microservices architecture, and scalable system design
 
 ---
 
@@ -79,50 +73,18 @@ I am an undergraduate Computer Science student at **MLR Institute of Technology*
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 AI & Deep Learning</h4>
-      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Tensorflow">
-      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-    </td>
-    <td width="50%" valign="top">
       <h4>🛠️ DevOps & Industry Tools</h4>
       <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
       <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"><br>
       <img src="https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
       <img src="https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI">
     </td>
-  </tr>
-  <tr>
-    <td width="100%" colspan="2">
+    <td width="50%" valign="top">
       <h4>🎨 Design & Creativity</h4>
       <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop">
     </td>
   </tr>
 </table>
-
----
-
-### 📊 GitHub Activity & Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hari07-git&show_icons=true&title_color=facc15&text_color=e2e8f0&icon_color=facc15&bg_color=0b0f19&hide_border=true&border_radius=10" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari07-git&layout=compact&title_color=facc15&text_color=e2e8f0&icon_color=facc15&bg_color=0b0f19&hide_border=true&border_radius=10" alt="Top Languages" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hari07-git&currPlay=facc15&ring=facc15&fire=facc15&sideNums=facc15&sideLabels=e2e8f0&dates=e2e8f0&bg=0b0f19&hide_border=true" alt="GitHub Streak" width="97%">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hari07-git&theme=dracula&no-background=true&margin-w=15&no-border=true" alt="Trophies" width="97%">
-</p>
-
----
-
-### ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Developer Quote">
-</p>
 
 ---
 
